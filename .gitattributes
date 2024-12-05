@@ -3,6 +3,6 @@
 
 git init
 git add
-git commit -m 'main commit'
+git commit -m 'assignment2 commit'
 git remote add origin https://github.com/Nish7966/assignment2.git
 git push -u origin master
